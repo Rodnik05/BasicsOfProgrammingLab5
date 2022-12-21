@@ -1,0 +1,1 @@
+add_library(argparser ArgParser.cpp ArgumentClass.h ArgParser.h HashFunctions.h)
